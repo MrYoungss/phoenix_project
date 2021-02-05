@@ -1,15 +1,5 @@
 #!/bin/bash
-#///////////////////////////////////////////////////////////////////////////////
-#///////////////////////////////////////////////////////////////////////////////
-#////                       _            _  __                              ////
-#////                      | |          (_)/ _|                             ////
-#////                   ___| |_   _  ___ _| |_ ___ _ __                     ////
-#////                  |_  / | | | |/ __| |  _/ _ \ '__|                    ////
-#////                   / /| | |_| | (__| | ||  __/ |                       ////
-#////                  /___|_|\__,_|\___|_|_| \___|_|                       ////
-#////                                                                       ////
-#///////////////////////////////////////////////////////////////////////////////
-#///////////////////////////////////////////////////////////////////////////////
+#//////MrYoung//////
 intro(){
 echo "Selamat datang kak, Siapa nick kaka?" #tulisan keluar
 read nick #membaca yang ditulis
@@ -43,10 +33,10 @@ echo " '''  '   ''' "
 sleep 0.03
 echo "================================"
 sleep 2
-echo "==      Phoenix Project       =="
+echo "==      Youngs Project.       =="
 sleep 0.7
 echo "================================"
-echo " Phoenix Project adalah tools untuk"
+echo " Youngs.  Project adalah tools untuk"
 echo " Hacking Instagram via Phising Panel"
 echo
 echo "Selamat datang "$nick
@@ -108,7 +98,7 @@ else
                 echo -e $cek_target
                 echo "======================================="
                 echo " Gunakan tools dengan bijak"
-                echo " -zLucifer"
+                echo " -mryoungs"
                 echo "======================================="
             else
                 echo "Kesalahan"
